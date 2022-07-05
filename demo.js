@@ -5,4 +5,4 @@
  * @LastEditors: yanshuwen
  * @astEditTime: Do not edit
  */
-var a=1
+var a="main"

@@ -5,8 +5,4 @@
  * @LastEditors: yanshuwen
  * @astEditTime: Do not edit
  */
-<<<<<<< HEAD
-var a="dev.0.1.2"
-=======
 var a="dev.0.1.3"
->>>>>>> dev
